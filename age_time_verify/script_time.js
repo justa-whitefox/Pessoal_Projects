@@ -6,7 +6,7 @@ function loading() {
     var nowminutes = time.getMinutes();
     
     
-    //nowtime = '5'
+    //nowtime = '20'
     mensage.innerHTML = `now is ${nowhours}:${nowminutes} o'clock`;
 
     if (nowtime >= 0 && nowtime < 12) {
