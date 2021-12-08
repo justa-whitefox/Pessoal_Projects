@@ -1,6 +1,6 @@
 1 - mad libs generator
 2 - number guessing
-3 - text-based adventure game
+3 - text-based adventure game [x]
 4 - dice rolling simulator
 5 - hangman
 6 - contact book
@@ -15,7 +15,7 @@
 15 - rock, paper, scissors
 16 - leap it!
 17 - find out, fibonacci!
-18 - calculator
+18 - calculator [x]
 19 - tic-tac-toe
 20 - speed type text
 21 - music player
