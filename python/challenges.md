@@ -1,5 +1,5 @@
 1 - mad libs generator
-2 - number guessing
+2 - number guessing [x]
 3 - text-based adventure game [x]
 4 - dice rolling simulator
 5 - hangman
@@ -12,7 +12,7 @@
 12 - python website blocker
 13 - spin a yarn
 14 - what's the word
-15 - rock, paper, scissors
+15 - rock, paper, scissors [x]
 16 - leap it!
 17 - find out, fibonacci!
 18 - calculator [x]
