@@ -1,4 +1,4 @@
-1 - mad libs generator
+1 - mad libs generator [x]
 2 - number guessing [x]
 3 - text-based adventure game [x]
 4 - dice rolling simulator
