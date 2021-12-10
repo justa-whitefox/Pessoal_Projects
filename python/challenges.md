@@ -1,8 +1,8 @@
 1 - mad libs generator [x]
 2 - number guessing [x]
 3 - text-based adventure game [x]
-4 - dice rolling simulator
-5 - hangman
+4 - dice rolling simulator [x]
+5 - hangman [x]
 6 - contact book
 7 - email slicer
 8 - binary search algorithm
