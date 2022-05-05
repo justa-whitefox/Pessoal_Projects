@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/05/04 13:57:16.295,=C:\Users\Rubens &amp; Familía\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/05/04 13:57:18.488,=C:\Users\Rubens &amp; Familía\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/05/04 14:51:03.830,C:\Users\Rubens &amp; Familía\Documents\GitHub\Pessoal_Projects\cpp\3.quizGame\Main.fmx=C:\Users\Rubens &amp; Familía\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022/05/04 14:51:03.830,C:\Users\Rubens &amp; Familía\Documents\GitHub\Pessoal_Projects\cpp\3.quizGame\Main.cpp=C:\Users\Rubens &amp; Familía\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/05/04 14:51:03.830,C:\Users\Rubens &amp; Familía\Documents\GitHub\Pessoal_Projects\cpp\3.quizGame\Main.h=C:\Users\Rubens &amp; Familía\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2022/05/04 14:51:15.056,C:\Users\Rubens &amp; Familía\Documents\GitHub\Pessoal_Projects\cpp\3.quizGame\QuizPCH1.h=C:\Users\Rubens &amp; Familía\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/05/04 14:51:29.130,C:\Users\Rubens &amp; Familía\Documents\GitHub\Pessoal_Projects\cpp\3.quizGame\Quiz.cbproj=C:\Users\Rubens &amp; Familía\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

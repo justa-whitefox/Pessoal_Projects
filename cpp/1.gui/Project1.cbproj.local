@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/05/04 13:02:37.789,=C:\Users\Rubens &amp; Familía\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/05/04 13:02:43.386,=C:\Users\Rubens &amp; Familía\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/05/04 13:15:25.801,C:\Users\Rubens &amp; Familía\Documents\GitHub\Pessoal_Projects\cpp\1.gui\gui.cpp=C:\Users\Rubens &amp; Familía\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/05/04 13:15:25.801,C:\Users\Rubens &amp; Familía\Documents\GitHub\Pessoal_Projects\cpp\1.gui\gui.h=C:\Users\Rubens &amp; Familía\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2022/05/04 13:15:25.801,C:\Users\Rubens &amp; Familía\Documents\GitHub\Pessoal_Projects\cpp\1.gui\gui.fmx=C:\Users\Rubens &amp; Familía\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022/05/04 13:15:41.656,C:\Users\Rubens &amp; Familía\Documents\GitHub\Pessoal_Projects\cpp\1.gui\GUIPCH1.h=C:\Users\Rubens &amp; Familía\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/05/04 13:16:04.655,C:\Users\Rubens &amp; Familía\Documents\GitHub\Pessoal_Projects\cpp\1.gui\Project1.cbproj=C:\Users\Rubens &amp; Familía\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
